@@ -47,7 +47,7 @@ Python was born out of frustration with closed, inaccessible tools. Guido chose 
 ## 📁 Repository Structure
 
 ```
-oss-audit-24MIP10087/
+oss-audit-24MIP10069/
 │
 ├── 📜 script1.sh          →  System Identity Report
 ├── 📜 script2.sh          →  FOSS Package Inspector
